@@ -20,3 +20,9 @@ def is_palindrome(s)
     s = s.gsub(/[^a-zA-Z\d]/, "").downcase
     s.reverse == s
 end
+
+# 훨씬 더 빠른걸 찾음
+def is_palindrome(s)
+    s = s.downcase.delete("^/a-z0-9/")
+    s == s.reverse
+end
