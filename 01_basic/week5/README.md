@@ -7,3 +7,5 @@
     - solve the same question with JavaScript
 - for sam
     - solve the same question with Ruby
+    
+- 9/12 12:00까지
