@@ -1,7 +1,7 @@
 # To-do
-- book 195 ~ 194p
+- book 195 ~ 198p
     - read & learn concepts, information, and tips
-    - solve the 12th question [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+    - solve the 12th question [238. Product of Array Except Self](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   
 - for alex
     - solve the same question with JavaScript
