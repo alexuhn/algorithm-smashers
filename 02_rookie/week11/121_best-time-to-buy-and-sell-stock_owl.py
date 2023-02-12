@@ -6,7 +6,7 @@
                 mini = prices[i]
             if maxi < prices[i+1]:
                 maxi = prices[i+1]
-            print(mini,maxi)
+            # print(mini,maxi)
         if maxi - mini > 0 and maxi != prices[1]:
             return maxi - mini
         elif maxi - mini <= 0 or maxi == prices[1]:
